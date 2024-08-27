@@ -18,13 +18,13 @@
   position: relative;
   justify-content: space-between;
   overflow: hidden;
+  z-index: 1;
 }
 
 .about__title {
   color: #fff;
   max-width: 251px;
   margin: 0;
-  z-index: 2;
   font-family: Inter, Arial, san-serif;
   font-weight: 500;
   font-size: 44px;
@@ -57,7 +57,7 @@
   height: 426px;
   background-color: #1878dc;
   border-radius: 50%;
-  z-index: 1;
+  z-index: -1;
 }
 /* is there a way to make it look completly round, it apears to have some slight edges? */
 .about__circle_animation_blurred {
