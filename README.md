@@ -16,3 +16,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Make custom check box
 - integrate a slide show
 <!-- how would I add screenshots or images to the .README.md file? -->
+
+## Live link
+
+- https://josiahped.github.io/se_project_coffeeshop/
